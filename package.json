@@ -1,0 +1,15 @@
+{
+  "name": "twitter_clone_api",
+  "version": "1.0.0",
+  "description": "Twitter clone api : To get the past 7 days tweats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vetrivel Ravi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
